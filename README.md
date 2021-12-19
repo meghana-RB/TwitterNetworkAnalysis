@@ -13,6 +13,7 @@ External Packages used:
 4. seaborn - to create a stipplot of the retweet frequncies, grouped by the search terms
 
 Interacting with the program:
+To start the program, file 'TwitterProject.py' has to be run.
 
 Users can interact with the CLI to choose from one of the options-
 
@@ -21,3 +22,5 @@ Users can interact with the CLI to choose from one of the options-
 3. Retweet Statistics - a stripplpt of the the number of retweets of the list of tweets collated from querying for a list of keywords, grouped by the the keywords
 4. Primary Node Statistics - a bargraph of the Tweet Count, and a side-by-side bar graph of the Followers and Following of the Primary Nodes
 5. Network Graph - a visualization of the Primary and Secondary nodes with undirected edges connecting the nodes
+
+
