@@ -22,9 +22,9 @@ To start the program, file 'TwitterProject.py' has to be run.
 
 Users can interact with the CLI to choose from one of the options-
 
-1. Word Frequencies from Users' Descriptions - a bar graph with of the frequnecies of terms in the 'Description' of Twitter Users. The Users include both authors of the tweets and ten of their followers
-2. Word Frequencies from Tweet Content - a bar graph with of the frequnecies of terms in the text of the tweets fetched by querying for a list of keywords
-3. Retweet Statistics - a stripplpt of the the number of retweets of the list of tweets collated from querying for a list of keywords, grouped by the the keywords
+1. Word Frequencies from Users' Descriptions - a bar graph with the frequencies of terms in the 'Description' of Twitter Users. The Users include both authors of the tweets and ten of their followers
+2. Word Frequencies from Tweet Content - a bar graph of the frequencies of terms in the text of the tweets fetched by querying for a list of keywords
+3. Retweet Statistics - a stripplot of the number of retweets of the list of tweets collated from querying for a list of keywords, grouped by the keywords
 4. Primary Node Statistics - a bargraph of the Tweet Count, and a side-by-side bar graph of the Followers and Following of the Primary Nodes
 5. Network Graph - a visualization of the Primary and Secondary nodes with undirected edges connecting the nodes
 
