@@ -12,6 +12,11 @@ External Packages used:
 3. matplotlib - to visualize graphs of the word frequencies, Retweet statistics, Public metrics (Following and Follower counts) of the authors
 4. seaborn - to create a stipplot of the retweet frequncies, grouped by the search terms
 
+Setting up OAuth2 BEARER Token:
+To access tweets from Twitter API v2, the 'secrets' file must be set up. The file must contain the following field:
+TWITTER_BEARER_TOKEN = <users_bearer_token>
+To set up Bearer Token, please refer https://developer.twitter.com/en/docs/authentication/oauth-2-0/bearer-tokens
+
 Interacting with the program:
 To start the program, file 'TwitterProject.py' has to be run.
 
