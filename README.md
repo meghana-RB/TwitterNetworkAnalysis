@@ -13,7 +13,7 @@ External Packages used:
 4. seaborn - to create a stipplot of the retweet frequncies, grouped by the search terms
 
 Setting up OAuth2 BEARER Token:
-To access tweets from Twitter API v2, the 'secrets' file must be set up. The file must contain the following field:
+To access tweets from Twitter API v2, the 'secrets.py' file must be set up. The file must contain the following line:
 TWITTER_BEARER_TOKEN = <users_bearer_token>
 To set up Bearer Token, please refer https://developer.twitter.com/en/docs/authentication/oauth-2-0/bearer-tokens
 
